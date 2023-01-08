@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 # Define the path of the folder we want to scan
-path = "/Users/joseeduardonunezarenas/Desktop/Imagenes"
+path = "/Users/joseeduardonunezarenas/Downloads"
 
 # Iterate through the files in the folder
 for file in os.listdir(path):
